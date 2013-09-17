@@ -1,0 +1,10 @@
+/tags/i+love+amsterdam.rb 0.5492ms. 200
+/products/writing-c-extensions.html 0.8214ms. 200
+/about.html 0.155ms. 200
+/about.html 0.2097ms. 200
+/tags/i+love+amsterdam.rb 0.4447ms. 200
+/about.html 0.7944ms. 200
+/tags/i+love+amsterdam.rb 0.4052ms. 200
+/tags/i+love+amsterdam.rb 0.7726ms. 500
+/tags/i+love+amsterdam.rb 0.1625ms. 200
+/about.html 0.2127ms. 200
